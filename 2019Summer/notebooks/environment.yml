@@ -1,7 +1,8 @@
-name: example-environment
+name: rcc-environment1
 channels:
   - conda-forge
 dependencies:
+  - python=3.6
   - numpy
   - psutil
   - toolz
@@ -11,3 +12,4 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - seaborn
