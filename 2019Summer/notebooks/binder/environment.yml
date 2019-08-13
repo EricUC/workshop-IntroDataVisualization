@@ -1,4 +1,4 @@
-name: rcc-environment1
+name: python-3.6
 channels:
   - conda-forge
 dependencies:
